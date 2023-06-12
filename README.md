@@ -1,4 +1,5 @@
-
+Vue 3 To-Do Application - Options API vs. Composition API
+This repository showcases a basic to-do application built using Vue 3, highlighting the differences between the Options API and the Composition API. The Options API has been used to implement one version of the app, while the Composition API has been utilized for the alternative version.
 
 ## Project setup
 ```
